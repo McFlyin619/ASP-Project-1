@@ -1,0 +1,13 @@
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\bin\Debug\netcoreapp3.1\ASP Project 1.exe
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\bin\Debug\netcoreapp3.1\ASP Project 1.deps.json
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\bin\Debug\netcoreapp3.1\ASP Project 1.runtimeconfig.json
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\bin\Debug\netcoreapp3.1\ASP Project 1.runtimeconfig.dev.json
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\bin\Debug\netcoreapp3.1\ASP Project 1.dll
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\bin\Debug\netcoreapp3.1\ASP Project 1.pdb
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\obj\Debug\netcoreapp3.1\ASP Project 1.csprojAssemblyReference.cache
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\obj\Debug\netcoreapp3.1\ASP Project 1.AssemblyInfoInputs.cache
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\obj\Debug\netcoreapp3.1\ASP Project 1.AssemblyInfo.cs
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\obj\Debug\netcoreapp3.1\ASP Project 1.csproj.CoreCompileInputs.cache
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\obj\Debug\netcoreapp3.1\ASP Project 1.dll
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\obj\Debug\netcoreapp3.1\ASP Project 1.pdb
+D:\SDGKU\SDGKU\FSDI 110 ASP.net\ASP Project 1\obj\Debug\netcoreapp3.1\ASP Project 1.genruntimeconfig.cache
